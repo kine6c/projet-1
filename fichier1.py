@@ -35,7 +35,9 @@ while True:
     if Plat == 3:
         print("Votre Thé sera pret dans quelques minutes") 
     if Plat == 4:
-        print("Votre boule de glace sera pret dans quelques minutes")     
+        print("Votre boule de glace sera pret dans quelques minutes")  
+    else:
+        print("Merci et à la prochaine")      
     break
     
 
