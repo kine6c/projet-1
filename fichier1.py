@@ -23,8 +23,8 @@ while True:
         print("--Choisissez votre dessert--")
         print("taper 1 : pour le jus Bouye")
         print("taper 2 : pour le jus Bissap")
-        print("taper 1 : pour le Thé")
-        print("taper 1 : pour une boule de glace")
+        print("taper 3 : pour le Thé")
+        print("taper 4 : pour une boule de glace")
     else:
         print("Merci et à la prochaine")
     Dessert= int(input("choisissez un Dessert :"))
